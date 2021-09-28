@@ -1,0 +1,7 @@
+Format code: Ctrl + K +D
+Annotation: Ctrl + E + C
+Unannotation: Ctrl + E + U
+Collapse all: Ctrl + M + O
+Collapse and Extend current: Ctrl + M + M
+Extend all: Ctrl + M + L
+Copy full line:(cursor no sel) Ctrl + C and then Ctrl + V
